@@ -1,0 +1,24 @@
+Scoped PR Builder
+Copyright 2026 Scoped PR Builder contributors
+
+This product includes software developed for the Scoped PR Builder project.
+
+The original Scoped PR Builder project content is made available under the
+Apache License, Version 2.0, except where an individual file or accompanying
+notice states otherwise. See the LICENSE file in this distribution.
+
+This distribution also includes or adapts third-party software licensed
+separately under the MIT License. Required copyright, license, and provenance
+information for those components is preserved in:
+
+    Scoped PR Builder/THIRD-PARTY-NOTICES.md
+
+Current third-party attributions documented there include:
+
+- AutoSaddler — MIT License; Copyright (c) 2026.
+- AzureSearch-MRC — MIT License; Copyright (c) Microsoft Corporation.
+- amplifier-bundle-redaction — MIT License; Copyright (c) Microsoft Corporation.
+
+This NOTICE file is provided for attribution and informational purposes only
+and does not modify the terms of the Apache License, Version 2.0, or any
+applicable third-party license.
